@@ -4,7 +4,7 @@ I used this display https://joy-it.net/en/products/RB-TFT3.5 - but I think the w
 </br>
 Steps to make it work:
 
-git clone https://github.com/WDRss/orangepizero3tftw</br>
+git clone https://github.com/WDRss/orangepizero3tft</br>
 cd orangepizero2w35tft</br>
 
 sudo mv ./80-calibration.conf /usr/share/X11/xorg.conf.d </br>
